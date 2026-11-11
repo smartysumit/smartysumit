@@ -41,10 +41,10 @@ I write about Shopify merchandising, building software products and careers in I
 
 <!-- BLOG-POST-LIST:START -->
 - [Merchandising KPIs for Shopify: How to Build a Simple Weekly Dashboard](https://www.leelaramtechnologies.com/blog/weekly-merchandising-kpi-dashboard-shopify)
-- [CTC to In-Hand Salary: How to Calculate Your Take-Home Pay (FY 2026-27)](https://www.leelaramtechnologies.com/blog/ctc-to-in-hand-salary-calculation-india-fy-2026-27)
+- [CTC to In-Hand Salary: How to Calculate Your Take-Home Pay &lpar;FY 2026-27&rpar;](https://www.leelaramtechnologies.com/blog/ctc-to-in-hand-salary-calculation-india-fy-2026-27)
 - [Shopify Markets Merchandising: Collections, Multi-Currency Prices and Regional Catalogues](https://www.leelaramtechnologies.com/blog/shopify-markets-merchandising-multi-currency-catalogs)
 - [Is This Job Offer Real? 10 Warning Signs of a Job Scam in India](https://www.leelaramtechnologies.com/blog/is-this-job-offer-real-job-scam-warning-signs-india)
-- [How to Sort a Shopify Collection by Conversion Rate (and When Not To)](https://www.leelaramtechnologies.com/blog/sort-shopify-collection-by-conversion-rate)
+- [How to Sort a Shopify Collection by Conversion Rate &lpar;and When Not To&rpar;](https://www.leelaramtechnologies.com/blog/sort-shopify-collection-by-conversion-rate)
 <!-- BLOG-POST-LIST:END -->
 
 ## Work with us
