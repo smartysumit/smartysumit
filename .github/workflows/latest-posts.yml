@@ -1,0 +1,22 @@
+# Keeps the "Latest writing" list in README.md in step with the blog's RSS
+# feed: once a day, and on demand from the Actions tab.
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # 09:00 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.leelaramtechnologies.com/feed.xml"
+          max_post_count: 5
+          commit_message: "Update latest blog posts"
