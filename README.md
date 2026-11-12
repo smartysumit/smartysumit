@@ -44,7 +44,7 @@ I write about Shopify merchandising, building software products and careers in I
 - [CTC to In-Hand Salary: How to Calculate Your Take-Home Pay &lpar;FY 2026-27&rpar;](https://www.leelaramtechnologies.com/blog/ctc-to-in-hand-salary-calculation-india-fy-2026-27)
 - [Shopify Markets Merchandising: Collections, Multi-Currency Prices and Regional Catalogues](https://www.leelaramtechnologies.com/blog/shopify-markets-merchandising-multi-currency-catalogs)
 - [Is This Job Offer Real? 10 Warning Signs of a Job Scam in India](https://www.leelaramtechnologies.com/blog/is-this-job-offer-real-job-scam-warning-signs-india)
-- [How to Sort a Shopify Collection by Conversion Rate &lpar;and When Not To&rpar;](https://www.leelaramtechnologies.com/blog/sort-shopify-collection-by-conversion-rate)
+- [Self Introduction for Interview: How to Answer “Tell Me About Yourself”, With Examples](https://www.leelaramtechnologies.com/blog/tell-me-about-yourself-answer-examples)
 <!-- BLOG-POST-LIST:END -->
 
 ## Work with us
