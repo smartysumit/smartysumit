@@ -40,11 +40,11 @@ Before LeelaRam, I built and ran the e-commerce technology for a live jewellery 
 I write about Shopify merchandising, building software products and careers in India: more than 100 articles on the [LeelaRam Technologies blog](https://www.leelaramtechnologies.com/blog).
 
 <!-- BLOG-POST-LIST:START -->
+- [App Development Cost in India &lpar;2026&rpar;: What Decides the Price, and How to Compare Quotes](https://www.leelaramtechnologies.com/blog/app-development-cost-india)
 - [Shopify Flow Merchandising Automation: Tagging, Sold-Out Products and Stock Alerts](https://www.leelaramtechnologies.com/blog/shopify-flow-merchandising-automation)
 - [Resignation Letter Format: 8 Samples for Every Situation &lpar;India&rpar;](https://www.leelaramtechnologies.com/blog/resignation-letter-format-samples-india)
 - [A Seasonal Collection Planning Calendar for Indian Retail: Month by Month on Shopify](https://www.leelaramtechnologies.com/blog/seasonal-collection-planning-calendar-india)
 - [Merchandising KPIs for Shopify: How to Build a Simple Weekly Dashboard](https://www.leelaramtechnologies.com/blog/weekly-merchandising-kpi-dashboard-shopify)
-- [CTC to In-Hand Salary: How to Calculate Your Take-Home Pay &lpar;FY 2026-27&rpar;](https://www.leelaramtechnologies.com/blog/ctc-to-in-hand-salary-calculation-india-fy-2026-27)
 <!-- BLOG-POST-LIST:END -->
 
 ## Work with us
