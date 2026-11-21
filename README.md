@@ -40,11 +40,11 @@ Before LeelaRam, I built and ran the e-commerce technology for a live jewellery 
 I write about Shopify merchandising, building software products and careers in India: more than 100 articles on the [LeelaRam Technologies blog](https://www.leelaramtechnologies.com/blog).
 
 <!-- BLOG-POST-LIST:START -->
+- [Relieving Letter Format: Samples, Request Emails, and How It Differs From an Experience Letter](https://www.leelaramtechnologies.com/blog/relieving-letter-format-india)
 - [Experience Letter Format, and How to Ask Your Employer for One &lpar;India&rpar;](https://www.leelaramtechnologies.com/blog/experience-letter-format-how-to-request-india)
 - [Shopify Cross-Sell From Collection Pages: Complete the Look Without Cluttering the Grid](https://www.leelaramtechnologies.com/blog/cross-sell-complete-the-look-shopify-collection-pages)
 - [“Why Should We Hire You?”: How to Answer, With Examples for Freshers and Experienced](https://www.leelaramtechnologies.com/blog/why-should-we-hire-you-answer-examples)
 - [Shopify Gift Collections: How to Build Them by Recipient, by Budget and for Last-Minute Shoppers](https://www.leelaramtechnologies.com/blog/shopify-gift-collections-by-recipient-and-budget)
-- [App Development Cost in India &lpar;2026&rpar;: What Decides the Price, and How to Compare Quotes](https://www.leelaramtechnologies.com/blog/app-development-cost-india)
 <!-- BLOG-POST-LIST:END -->
 
 ## Work with us
