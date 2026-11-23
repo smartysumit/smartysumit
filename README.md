@@ -40,11 +40,11 @@ Before LeelaRam, I built and ran the e-commerce technology for a live jewellery 
 I write about Shopify merchandising, building software products and careers in India: more than 100 articles on the [LeelaRam Technologies blog](https://www.leelaramtechnologies.com/blog).
 
 <!-- BLOG-POST-LIST:START -->
+- [Salary Negotiation in India: How to Ask for More, With Scripts and Emails](https://www.leelaramtechnologies.com/blog/salary-negotiation-india-how-to-ask)
 - [Shopify Pricing in India &lpar;2026&rpar;: Plans in Rupees and What You Really Pay](https://www.leelaramtechnologies.com/blog/shopify-pricing-india-plans-in-rupees)
 - [Relieving Letter Format: Samples, Request Emails, and How It Differs From an Experience Letter](https://www.leelaramtechnologies.com/blog/relieving-letter-format-india)
 - [Experience Letter Format, and How to Ask Your Employer for One &lpar;India&rpar;](https://www.leelaramtechnologies.com/blog/experience-letter-format-how-to-request-india)
 - [Shopify Cross-Sell From Collection Pages: Complete the Look Without Cluttering the Grid](https://www.leelaramtechnologies.com/blog/cross-sell-complete-the-look-shopify-collection-pages)
-- [“Why Should We Hire You?”: How to Answer, With Examples for Freshers and Experienced](https://www.leelaramtechnologies.com/blog/why-should-we-hire-you-answer-examples)
 <!-- BLOG-POST-LIST:END -->
 
 ## Work with us
